@@ -1,0 +1,16 @@
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\bin\Debug\net6.0-windows\Task_8.exe
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\bin\Debug\net6.0-windows\Task_8.deps.json
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\bin\Debug\net6.0-windows\Task_8.runtimeconfig.json
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\bin\Debug\net6.0-windows\Task_8.dll
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\bin\Debug\net6.0-windows\Task_8.pdb
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\obj\Debug\net6.0-windows\Task_8.Form1.resources
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\obj\Debug\net6.0-windows\Task_8.csproj.GenerateResource.cache
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\obj\Debug\net6.0-windows\Task_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\obj\Debug\net6.0-windows\Task_8.AssemblyInfoInputs.cache
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\obj\Debug\net6.0-windows\Task_8.AssemblyInfo.cs
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\obj\Debug\net6.0-windows\Task_8.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\obj\Debug\net6.0-windows\Task_8.dll
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\obj\Debug\net6.0-windows\refint\Task_8.dll
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\obj\Debug\net6.0-windows\Task_8.pdb
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\obj\Debug\net6.0-windows\Task_8.genruntimeconfig.cache
+C:\Users\Vyacheslav\source\repos\Lab_6\Task_8\obj\Debug\net6.0-windows\ref\Task_8.dll

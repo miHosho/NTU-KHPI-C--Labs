@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\Telegram Desktop\\repos\\repos\\Lab_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C67C8DBE-151F-42EF-80E8-2DC6ED7A12F8}|..\\Lab_3\\Lab_3.csproj|d:\\\u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\telegram desktop\\repos\\repos\\lab_3\\test_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67C8DBE-151F-42EF-80E8-2DC6ED7A12F8}|..\\Lab_3\\Lab_3.csproj|d:\\\u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\telegram desktop\\repos\\repos\\lab_3\\test_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93232FCE-6C85-4F1B-A3FB-FB217A37F95B}|Lab_1.csproj|d:\\\u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\telegram desktop\\repos\\repos\\lab_1\\task_10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93232FCE-6C85-4F1B-A3FB-FB217A37F95B}|Lab_1.csproj|solutionrelative:task_10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93232FCE-6C85-4F1B-A3FB-FB217A37F95B}|Lab_1.csproj|d:\\\u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\telegram desktop\\repos\\repos\\lab_1\\task_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93232FCE-6C85-4F1B-A3FB-FB217A37F95B}|Lab_1.csproj|solutionrelative:task_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test_7.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\Telegram Desktop\\repos\\repos\\Lab_3\\Test_7.cs",
+              "RelativeDocumentMoniker": "..\\Lab_3\\Test_7.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\Telegram Desktop\\repos\\repos\\Lab_3\\Test_7.cs",
+              "RelativeToolTip": "..\\Lab_3\\Test_7.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:31:07.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test_4.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\Telegram Desktop\\repos\\repos\\Lab_3\\Test_4.cs",
+              "RelativeDocumentMoniker": "..\\Lab_3\\Test_4.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\Telegram Desktop\\repos\\repos\\Lab_3\\Test_4.cs",
+              "RelativeToolTip": "..\\Lab_3\\Test_4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:30:44.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task_10.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\Telegram Desktop\\repos\\repos\\Lab_1\\Task_10.cs",
+              "RelativeDocumentMoniker": "Task_10.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\Telegram Desktop\\repos\\repos\\Lab_1\\Task_10.cs",
+              "RelativeToolTip": "Task_10.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:26:26.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task_1.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\Telegram Desktop\\repos\\repos\\Lab_1\\Task_1.cs",
+              "RelativeDocumentMoniker": "Task_1.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\Telegram Desktop\\repos\\repos\\Lab_1\\Task_1.cs",
+              "RelativeToolTip": "Task_1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:26:20.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

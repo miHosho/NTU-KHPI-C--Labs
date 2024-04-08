@@ -1,0 +1,9 @@
+C:\Users\Vyacheslav\source\repos\Lab_5\bin\Debug\Lab_5.exe.config
+C:\Users\Vyacheslav\source\repos\Lab_5\bin\Debug\Lab_5.exe
+C:\Users\Vyacheslav\source\repos\Lab_5\bin\Debug\Lab_5.pdb
+C:\Users\Vyacheslav\source\repos\Lab_5\obj\Debug\Task_2.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\source\repos\Lab_5\obj\Debug\Lab_5.Form1.resources
+C:\Users\Vyacheslav\source\repos\Lab_5\obj\Debug\Task_2.csproj.GenerateResource.cache
+C:\Users\Vyacheslav\source\repos\Lab_5\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\source\repos\Lab_5\obj\Debug\Lab_5.exe
+C:\Users\Vyacheslav\source\repos\Lab_5\obj\Debug\Lab_5.pdb

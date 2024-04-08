@@ -1,0 +1,50 @@
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\bin\Debug\net6.0-windows\Task_1.exe
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\bin\Debug\net6.0-windows\Task_1.deps.json
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\bin\Debug\net6.0-windows\Task_1.runtimeconfig.json
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\bin\Debug\net6.0-windows\Task_1.dll
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\bin\Debug\net6.0-windows\Task_1.pdb
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form10.resources
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form100.resources
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form20.resources
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form30.resources
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form40.resources
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form50.resources
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form60.resources
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form70.resources
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form80.resources
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form90.resources
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.csproj.GenerateResource.cache
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.AssemblyInfoInputs.cache
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.AssemblyInfo.cs
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.dll
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\refint\Task_1.dll
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.pdb
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.genruntimeconfig.cache
+C:\Users\Vyacheslav\source\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\ref\Task_1.dll
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\bin\Debug\net6.0-windows\Task_1.exe
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\bin\Debug\net6.0-windows\Task_1.deps.json
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\bin\Debug\net6.0-windows\Task_1.runtimeconfig.json
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\bin\Debug\net6.0-windows\Task_1.dll
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\bin\Debug\net6.0-windows\Task_1.pdb
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form10.resources
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form100.resources
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form20.resources
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form30.resources
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form40.resources
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form50.resources
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form60.resources
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form70.resources
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form80.resources
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.Form90.resources
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.csproj.GenerateResource.cache
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.AssemblyInfoInputs.cache
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.AssemblyInfo.cs
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.csproj.CoreCompileInputs.cache
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.dll
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\refint\Task_1.dll
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.pdb
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\Task_1.genruntimeconfig.cache
+D:\Загрузки\Telegram Desktop\repos\repos\Lab_11\Task_1\obj\Debug\net6.0-windows\ref\Task_1.dll

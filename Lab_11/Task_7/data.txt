@@ -1,0 +1,5 @@
+128, 64, 64
+Tw Cen MT Condensed
+Regular
+13,8
+255, 128, 0

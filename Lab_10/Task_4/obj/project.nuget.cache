@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W3b5OxZkJq6pRScHXuV0KcSVYnbvuL3d/BFhqocR0rQc+AwUSqWVz20rwLPEvWwVhIezLWgmv+puAPTWomLj8A==",
+  "success": true,
+  "projectFilePath": "D:\\Загрузки\\Telegram Desktop\\repos\\repos\\Lab_10\\Task_4\\Task_4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qeldu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\qeldu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\qeldu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\qeldu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
